@@ -6,9 +6,9 @@ My career goals are to secure a financial analyst position with one of the big b
 I gelt FinTech would help expand my skills needed for certain financial positions.
 
 
-#This is my first header
+# This is my first header
 ## This is my second header
-### THis is my third header
+### This is my third header
 
 ![Husky Pup](Husky/Husky.jpg)
 
