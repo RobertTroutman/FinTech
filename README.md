@@ -9,6 +9,6 @@ I gelt FinTech would help expand my skills needed for certain financial position
 # This is my first header
 ## This is my second header
 ### This is my third header
-
+---
 ![Husky Pup](Husky/Husky.jpg)
 
