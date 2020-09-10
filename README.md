@@ -11,4 +11,5 @@ I gelt FinTech would help expand my skills needed for certain financial position
 ### This is my third header
 ---
 ![Husky Pup](Husky/Husky.jpg)
-[Wikipedia/Husky](https://en.wikipedia.org/wiki/Husky)
+
+[Husky](https://en.wikipedia.org/wiki/Husky)
